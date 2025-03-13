@@ -1,6 +1,29 @@
 # movie_app
 
-A new Flutter project.
+Movie App 🎬 | Flutter + GetX + Firebase
+
+A beautifully designed movie discovery and review app built with Flutter, powered by Firebase and GetX state management.
+
+Features
+
+✅ User Authentication (Firebase Email & Google Sign-In)
+✅ Discover Movies using the TMDb API
+✅ Search for Movies by title
+✅ User Ratings & Reviews
+✅ Dark Mode Support
+✅ Minimal & Clean UI
+
+Tech Stack
+
+Flutter (Frontend)
+
+GetX (State Management)
+
+Firebase (Authentication & Backend)
+
+TMDb API (Movie Data)
+
+Sqflite (User Preferences & Offline Storage)
 
 ## Getting Started
 
