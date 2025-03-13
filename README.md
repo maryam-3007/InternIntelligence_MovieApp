@@ -7,10 +7,15 @@ A beautifully designed movie discovery and review app built with Flutter, powere
 Features
 
 ✅ User Authentication (Firebase Email & Google Sign-In)
+
 ✅ Discover Movies using the TMDb API
+
 ✅ Search for Movies by title
+
 ✅ User Ratings & Reviews
+
 ✅ Dark Mode Support
+
 ✅ Minimal & Clean UI
 
 Tech Stack
